@@ -19,6 +19,5 @@ else if (y == 0)
 else
         return (x * _pow_recursion(x, (y - 1)));
 
-        return (0);
+return (0);
 }
-
